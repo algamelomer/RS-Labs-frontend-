@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@theme {
+  --color-custom-red: #E95354;
+  --color-custom-red-100: oklch(0.99 0 0); 
+  --color-custom-red-200: oklch(0.95 0.05 15);
+  --color-custom-red-300: oklch(0.9 0.1 15);
+  --color-custom-red-400: oklch(0.85 0.15 15); /* Base */
+  --color-custom-red-500: oklch(0.8 0.15 15);
+  --color-custom-red-600: oklch(0.7 0.15 15);
+  --color-custom-red-700: oklch(0.6 0.15 15);
+  --color-custom-red-800: oklch(0.5 0.15 15);
+  --color-custom-red-900: oklch(0.4 0.15 15); 
+}
